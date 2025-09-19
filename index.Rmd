@@ -1,5 +1,5 @@
 ---
-title: "Week 3: Morphology"
+title: "Week 4: Syntax"
 subtitle: "Recitation for LING 201:02"
 author: "Quartz Colvin (they/them)"
 institute: "Rutgers University"
