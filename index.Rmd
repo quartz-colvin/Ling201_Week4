@@ -91,6 +91,11 @@ class: center, middle
 ---
 
 # Constituency tests 
+We can do tests to determine whether a group of words form a constituent or not.
+
+These are the four tests we'll use:
+
+--
 
 1. replacement/substitution 
 
@@ -100,7 +105,7 @@ class: center, middle
 
 4. coordination 
 
-**As is usually the case, these tests don't work 100% of the time, so you should try multiple**
+**As is usually the case, these tests don't work 100% of the time, so you should try multiple!!!**
 
 ---
 
@@ -135,7 +140,6 @@ If it works, then the words are a constituent.
 
   - this doesn't work, so [lives in New] is not a constituent 
 
-***what about replacing [in NB] with a pro-form? how about [the happy] or [student lives]?***
 
 ---
 
@@ -148,8 +152,7 @@ If it works, then the words are a constituent.
 - Who lives in New Brunswick? [The happy student]!
 
   - this works, so [the happy student] is a constituent
-  
-***can you try the stand alone test with [in NB]? what about [the happy] or [student lives]?***
+
 
 ---
 
@@ -166,9 +169,6 @@ If it works, then the words are a constituent.
 - Student who lives in New Brunswick is [the happy]
 
   - this doesn't work, so [the happy] is not a constituent
-  
-***can you try the movement test with [in NB]? how aboout [in New] or [student lives]?***
-
 
 
 ---
@@ -182,32 +182,12 @@ If it works, then the words are a constituent.
 - [The happy student] and [the grumpy professor] live in New Brunswick.
 
   - this works, so [the happy student] is a constituent
-  
-***can you try the coordination test with [in NB]? how about [student lives] or [in New]?***
+
 
 ---
 
 class: middle, center
 
-# Practice!
+# Practice:
 
----
-
-# Practice 
-
-**Use the constituency tests (replacement, movement, stand alone, coordination) to determine whether the bold/red sequences of words are constituents:
-
---
-
-1. **The tragedy** upset the entire family.
-
-2. They hid **in the cave**.
-
-3. The **computer was very** expensive.
-
-4. The geese **swam across** the lake.
-
-5. Mary gave **a book to her sister.**
-
-6. Linda read **a book about geology.**
-
+## ***Please go to the worksheet!***
