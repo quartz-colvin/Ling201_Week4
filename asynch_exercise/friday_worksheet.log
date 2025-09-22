@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.8)  22 SEP 2025 23:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.8)  22 SEP 2025 23:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1512,12 +1512,6 @@ LaTeX Font Info:    Trying to load font information for OT1+zplm on input line
 (C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/psnfss\ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
-Overfull \hbox (2.50299pt too wide) in paragraph at lines 54--55
-[]\T1/qpl/m/n/10.95 If yes, pro-vide la-beled $[]$ for both read-ings and ex-pl
-ain what each read-ing means. 
- []
-
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1530,7 +1524,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 urt/OneDrive/Desktop/MiKTeX_updated/fonts/enc/dvips/tex-gyre/q-ec.enc}
 
 ]
-(friday_worksheet.aux)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2] (friday_worksheet.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
@@ -1539,18 +1541,18 @@ L3 programming layer <2025-04-14>
 Here is how much of TeX's memory you used:
  20382 strings out of 469941
  383485 string characters out of 5468469
- 722821 words of memory out of 5000000
+ 721821 words of memory out of 5000000
  46735 multiletter control sequences out of 15000+600000
  661896 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,11n,93p,473b,288s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,11n,93p,473b,461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/court/OneDrive/Desktop/MiKTeX_updated/fonts/type1/public/amsfonts/c
 m/cmsy10.pfb><C:/Users/court/OneDrive/Desktop/MiKTeX_updated/fonts/type1/public
 /tex-gyre/qplb.pfb><C:/Users/court/OneDrive/Desktop/MiKTeX_updated/fonts/type1/
 public/tex-gyre/qplr.pfb>
-Output written on friday_worksheet.pdf (1 page, 117930 bytes).
+Output written on friday_worksheet.pdf (2 pages, 118736 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
+ 28 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
